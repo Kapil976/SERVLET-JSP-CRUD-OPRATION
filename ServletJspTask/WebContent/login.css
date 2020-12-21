@@ -1,0 +1,22 @@
+body{
+	background-color: #7f8080;
+}
+#main_container{
+	position:absolute;
+	border: 1px solid black;
+	padding:5px;
+	left:80vh;
+	top:30vh;
+	background-color: #EDEDED;
+}
+#header{
+	text-align: center;
+	background-color: #EDEDED;
+}
+#main{
+	padding:2px;
+	background-color: #EDEDED;
+}
+#table_login{
+	border-spacing: 15px;
+}
